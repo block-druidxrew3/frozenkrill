@@ -41,4 +41,4 @@ mockall = "0.13"
 orion = "0.17"
 pretty_assertions = "1"
 rargon2 = { version = "2", package = "rust-argon2" }
-tempfile = "3.21"
+tempfile = "3.23"
