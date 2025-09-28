@@ -31,7 +31,7 @@ cli_tests = ["expectrl"]
 
 [dev-dependencies]
 pretty_assertions = "1"
-tempfile = "3.21"
+tempfile = "3.23"
 
 [profile.release]
 strip = true
